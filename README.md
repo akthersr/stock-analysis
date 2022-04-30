@@ -26,25 +26,35 @@ In 2018,the majority of the stocks had a negative returns.The DQ stock had almos
 In this analysis both scripts had the same output.Only difference between them was in the execution time.At first,I have created tickerIndex and set it equal to zero before looping over the rows.Next,arrays are created for tickers,tickerVolumes,tickerStartingPrices and tickerEndingPrices.
 
  ''2a) Create a for loop to initialize the tickerVolumes to zero.
-
+ 
 ' If the next row's ticker doesn't match, increase the tickerIndex.
 
  For i = 0 To 11
-    tickerVolumes(i) = 0
+ 
+     tickerVolumes(i) = 0
+     
     tickerStartingPrices(i) = 0
+    
     tickerEndingPrices(i) = 0
+    
 Next i
 
 ''2b) Loop over all the rows in the spreadsheet.
+
 For i = 2 To RowCount
 
-    '3a) Increase volume for current ticker
-    tickerVolumes(tickerIndex) = tickerVolumes(tickerIndex) + Cells(i, 8).Value
+  '3a) Increase volume for current ticker
+  
+   tickerVolumes(tickerIndex) = tickerVolumes(tickerIndex) + Cells(i, 8).Value
     
-    '3b) Check if the current row is the first row with the selected tickerIndex.
+   '3b) Check if the current row is the first row with the selected tickerIndex.
+   
     'If  Then
+    
     If Cells(i, 1).Value = tickers(tickerIndex) And Cells(i - 1, 1).Value <> tickers(tickerIndex) Then
+    
         tickerStartingPrices(tickerIndex) = Cells(i, 6).Value
+        
     End If
 
 Then,a for loop created to initialize the tickerVolumes to zero.If the next row's ticker doesn't match, increase the tickerIndex.We created a loop that will loop over all the rows in the spreadsheet. Inside the loop, we created a script that increases the current tickerVolumes and adds the ticker volume for the current stock ticker.
