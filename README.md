@@ -75,7 +75,7 @@ tickerVolumes(tickerIndex)= 0 before entering the loop again.At last,in order to
             End If
 
 !execution times of the original script()
-!()
+![](https://github.com/akthersr/stock-analysis/blob/main/Resources/execution%20time%20of%202017.png)
 
 !execution times of the refactored script()
 !()
