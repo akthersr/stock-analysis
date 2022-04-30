@@ -19,7 +19,7 @@ In 2017,the green energy stock categories from this year tended to have a succes
 
 In 2018,the majority of the stocks had a negative returns.The DQ stock had almost negative 63% yearly return. In this year there was a much higher chance for their stock to have gone down in value.These results indicate us that the stock trend is not stable for DQ stocks and the investment might be risky.
 
-!()
+![](https://github.com/akthersr/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
 ### Refactor VBA Code
 
