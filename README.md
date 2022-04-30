@@ -3,7 +3,7 @@
 
 ## Background
 
-The main objective of this project is to refactor or edit, the Stock-Market Dataset with VBA solution code to loop through all the data one time in order to collect the same information that we did in this module.Then, we will determine wheather refactoring improve its efficiency and clearity or not.Refactoring is a key part of the coding process. When refactoring code, we are adding new functionality; and making the code more efficient—by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read.
+The main objective of this project is to refactor or improve, the Stock-Market Dataset with VBA solution code to loop through all the data one time in order to collect the same information that we did in this module.Then, we will determine wheather refactoring improve its efficiency and clearity or not.Refactoring is a key part of the coding process. When refactoring code, we are adding new functionality; and making the code more efficient—by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read.
 
 ## Purpose
 
