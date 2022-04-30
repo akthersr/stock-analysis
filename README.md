@@ -27,6 +27,7 @@ In this analysis both scripts had the same output.Only difference between them w
 
 ''2a) Create a for loop to initialize the tickerVolumes to zero.
 ' If the next row's ticker doesn't match, increase the tickerIndex.
+
 For i = 0 To 11
     tickerVolumes(i) = 0
     tickerStartingPrices(i) = 0
