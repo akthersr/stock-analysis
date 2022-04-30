@@ -50,10 +50,14 @@ Then,a for loop created to initialize the tickerVolumes to zero.If the next row'
 For loops are responsible for executing the code in a monotonous manner until the condition is fullfiled.Here,tickerIndex = tickerIndex + 1 to move to the next ticker and initialize the arrays by 
 tickerVolumes(tickerIndex)= 0 before entering the loop again.At last,in order to make the table more visulize and pleasent the code cotain the fromatting syntex too.
 
- Range("A3:C3").Font.FontStyle = "Bold"
+    Range("A3:C3").Font.FontStyle = "Bold"
+    
     Range("A3:C3").Borders(xlEdgeBottom).LineStyle = xlContinuous
+    
     Range("B4:B15").NumberFormat = "#,##0"
+    
     Range("C4:C15").NumberFormat = "0.0%"
+    
     Columns("B").AutoFit
 
     dataRowStart = 4
