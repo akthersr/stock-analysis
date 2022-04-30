@@ -15,7 +15,7 @@ The main purpose of this analysis is to provide Steve a complete overview of gre
 
 In 2017,the green energy stock categories from this year tended to have a successful yearly return.Among 12 of them,only one stock "TERP" had a negative yearly return.The DQ stock had almost 200% positive yearly return.From this data, we can conclude that people probably made money off their stocks in 2017.
 
-!()
+!(https://github.com/akthersr/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
 In 2018,the majority of the stocks had a negative returns.The DQ stock had almost negative 63% yearly return. In this year there was a much higher chance for their stock to have gone down in value.These results indicate us that the stock trend is not stable for DQ stocks and the investment might be risky.
 
