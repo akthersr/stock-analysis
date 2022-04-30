@@ -74,10 +74,12 @@ tickerVolumes(tickerIndex)= 0 before entering the loop again.At last,in order to
             Cells(i, 3).Interior.Color = vbRed
             End If
 
-!execution times of the original script()
+## Execution time of the original script for 2017
+
 ![](https://github.com/akthersr/stock-analysis/blob/main/Resources/execution%20time%20of%202017.png)
 
-!execution times of the refactored script()
+## Execution time of the refactored script for 2017
+
 ![](https://github.com/akthersr/stock-analysis/blob/main/Resources/execution%20time%20of%202017%20refactor.png)
 
 
