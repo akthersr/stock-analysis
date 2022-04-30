@@ -76,17 +76,21 @@ tickerVolumes(tickerIndex)= 0 before entering the loop again.At last,in order to
 
 ## Execution time of the original script for 2017
 
+
 ![](https://github.com/akthersr/stock-analysis/blob/main/Resources/execution%20time%20of%202017.png)
 
 ## Execution time of the refactored script for 2017
+
 
 ![](https://github.com/akthersr/stock-analysis/blob/main/Resources/execution%20time%20of%202017%20refactor.png)
 
 ## Execution time of the original script for 2018
 
-![]()
+
+![](https://github.com/akthersr/stock-analysis/blob/main/Resources/executation%20time%20of%202018.png)
 
 ## Execution time of the refactored script for 2018
+
 
 ![]()
 
