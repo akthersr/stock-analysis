@@ -78,7 +78,7 @@ tickerVolumes(tickerIndex)= 0 before entering the loop again.At last,in order to
 ![](https://github.com/akthersr/stock-analysis/blob/main/Resources/execution%20time%20of%202017.png)
 
 !execution times of the refactored script()
-!()
+![](https://github.com/akthersr/stock-analysis/blob/main/Resources/execution%20time%20of%202017%20refactor.png)
 
 
 ## Summary
