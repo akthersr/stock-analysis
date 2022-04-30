@@ -7,7 +7,7 @@ The main objective of this project is to refactor or improve, the Stock-Market D
 
 ## Purpose
 
-The main purpose of this analysis is to provide Steve a complete overview of green-energy stock market for his parents.Before investing their money in Daqo's stock, he wants to analyize DQ stock performance comparison to other green-energy stocks.The main purpose of this challenge is to refactor the original VBA code to loop only once, and determine whether refactoring VBA code successfully made the VBA script run faster.
+The main purpose of this analysis is to provide Steve a complete overview of green-energy stock market for his parents.Before investing their money in Daqo's stocks, he wants to analyize DQ stock performance comparison to other green-energy stocks.The main purpose of this challenge is to refactor the original script VBA code to loop only once, and determine whether refactoring VBA code successfully made the VBA script run faster or not.
 
 ## Results
 
