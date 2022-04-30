@@ -92,7 +92,7 @@ tickerVolumes(tickerIndex)= 0 before entering the loop again.At last,in order to
 ## Execution time of the refactored script for 2018
 
 
-![]()
+![](https://github.com/akthersr/stock-analysis/blob/main/Resources/execution%20time%20of%202018%20refactor.png)
 
 
 ## Summary
