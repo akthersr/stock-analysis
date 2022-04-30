@@ -82,6 +82,14 @@ tickerVolumes(tickerIndex)= 0 before entering the loop again.At last,in order to
 
 ![](https://github.com/akthersr/stock-analysis/blob/main/Resources/execution%20time%20of%202017%20refactor.png)
 
+## Execution time of the original script for 2018
+
+![]()
+
+## Execution time of the refactored script for 2018
+
+![]()
+
 
 ## Summary
 
@@ -89,17 +97,13 @@ Refactoring code was a extremely beneficial procees to explore finding alternati
 
 ### Advantages
 
-The main goal with refactoring was to improve readability, reduce complexity , increase speed, making it easier to maintain or extend.
-
-It also takes fewer steps, uses less memory and  improves the logic of the code to make it easier for future users to read.
-
-We can also debug different types of coding isues(duplicate code).
+The main goal with refactoring was to improve readability, reduce complexity , increase speed, making it easier to maintain or extend.It also takes fewer steps, uses less memory and  improves the logic of the code to make it easier for future users to read.We can also debug different types of coding isues(duplicate code).
 
 ### Disadvantages
 
 Refactoring could be time or money consuming and frastrating.If the code breaks while refactoring the dataset,it could be hard to find the root issue or debugging the errors.
 
-## Pros and cons to refactore the original VBA script
+## Pros and cons to refactor the original VBA script
 
  Having worked with both scripts, I do like the speed and efficiency of the refactored code,but requires more attention and effort.It decresed logarithimic response and gives quicker results.By removing the nested loops,the codes look more readable and simple.
 
