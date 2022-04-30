@@ -129,7 +129,7 @@ Refactoring could be time or money consuming and frastrating.If the code breaks 
 
 ## Pros and cons to refactor the original VBA script
 
- Having worked with both scripts, I do like the speed and efficiency of the refactored code,but requires more attention and effort.It decresed logarithimic response and gives quicker results.By removing the nested loops,the codes look more readable and simple.
+ Having worked with both scripts, I do like the speed and efficiency of the refactored code,but requires more attention and effort.It decreased logarithimic response and gives quicker results.By removing the nested loops,the codes look more readable and simple.
 
  On the other hand the original script was also easier to follow the logic of the code,was functioning properly and execute the desired output in a decent amount of time. The new code ran much faster,and because of this, we could reuse the new code on a much larger data set. 
   
